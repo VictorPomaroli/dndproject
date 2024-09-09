@@ -12,7 +12,7 @@ export default function Form() {
             <p>Senha</p>
             <input type="password"/>
         </div>
-        <button>Enviar</button>
+        <button>Login</button>
     </div>
     )
 }
