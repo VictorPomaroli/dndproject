@@ -1,0 +1,45 @@
+.box {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.campo {
+    margin-bottom: 10px;
+}
+
+.campo p {
+    text-align: start;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+button {
+    width: 177px;
+    margin-top: 10px;
+    color: white;
+    background-color: blue;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+input:focus {
+    outline: none; 
+    box-shadow: 0 0 0 2px rgba(108, 131, 155, 0.5); 
+  }
+  
