@@ -17,9 +17,11 @@ input {
 
 .campo {
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
 }
 
-.campo p {
+.campo label {
     text-align: start;
     margin-left: 10px;
     margin-bottom: 5px;
